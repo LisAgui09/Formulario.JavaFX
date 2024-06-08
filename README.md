@@ -2,9 +2,7 @@ FORMULARIO EN JAVAFX
 
 IMAGEN DE LA EJECUCION
 
-
-![controles](https://github.com/LisAgui09/Formulario.JavaFX/assets/169218807/a1c8a58c-15c0-4377-96eb-2230bee2ef2c)
-
+![controles](https://github.com/LisAgui09/Formulario.JavaFX/assets/169218807/f8891067-b8fa-4642-8301-712374e3c91f)
 
 CREACIÓN DE CONTROLES:
 Crea instancias de varios controles de JavaFX como Button, CheckBox, Hyperlink, ToggleButton, RadioButton, Label, TextField, PasswordField, TextArea, ProgressIndicator, ProgressBar, Slider
