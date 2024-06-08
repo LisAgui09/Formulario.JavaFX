@@ -1,5 +1,4 @@
 FORMULARIO EN JAVAFX
-El proyecto fue creado en netbeans.
 
 IMAGEN DE LA EJECUCION
 
