@@ -1,4 +1,4 @@
-![controles](https://github.com/LisAgui09/Formulario.JavaFX/assets/169218807/e38968eb-0584-4c27-85ac-244c3d63e07c)FORMULARIO EN JAVAFX
+FORMULARIO EN JAVAFX
 El proyecto fue creado en netbeans.
 
 IMAGEN DE LA EJECUCION
